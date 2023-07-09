@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lhlamar
-- 👀 I’m interested in ... whatever. fun stuff 
-- 🌱 I’m currently learning ... python, c++, automating tasks, app building and developing, graphics
-- 💞️ I’m looking to collaborate on ... i kinda suck you don't want this
-- 📫 How to reach me ... llamareo@gmail.com <if you really want to lol>
+- 👀 I’m interested in ... UX/UI design and implemenation, learning new stuff, and anything I can use as a creative outlet for my super cool ideas.
+- 🌱 I’m currently learning ... UI/UX design and implementaion, digital art, React.js, etc.
+- 📫 How to reach me ... llamareo@gmail.com
 
 <!---
 lhlamar/lhlamar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
